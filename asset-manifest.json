@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/CvApplication/static/js/main.62d9f73e.js",
+    "static/media/profile.svg": "/CvApplication/static/media/profile.6e852954314c063e157800592e9333fb.svg",
+    "index.html": "/CvApplication/index.html",
+    "main.62d9f73e.js.map": "/CvApplication/static/js/main.62d9f73e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.62d9f73e.js"
+  ]
+}
